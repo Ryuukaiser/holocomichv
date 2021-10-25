@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11.625, 22.625" name="dbDataTruyenTranh">
+  <DataContextMoniker Name="/dbDataTruyenTranhDataContext" />
+  <nestedChildShapes>
+    <classShape Id="6aa8b222-4665-417f-8912-6caef187111d" absoluteBounds="0.75, 5.875, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/dbDataTruyenTranhDataContext/Author" />
+      <nestedChildShapes>
+        <elementListCompartment Id="18e4a439-2709-4e6e-982b-c4c6e1809d9b" absoluteBounds="0.765, 6.335, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="8511a079-63ee-4d49-88f4-1bc0f9234b9d" absoluteBounds="6.25, 17.625, 2, 2.3478011067708309">
+      <DataClassMoniker Name="/dbDataTruyenTranhDataContext/User" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d32269cf-2975-41f1-9d89-3166b01d5028" absoluteBounds="6.265, 18.085, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d91af810-e051-497a-8eff-480e803ff4a1" absoluteBounds="3.5, 4.875, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/dbDataTruyenTranhDataContext/AuthorKeyword" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7a7e0283-545d-4fcf-812a-2a3a9598cc18" absoluteBounds="3.515, 5.335, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="64b69874-d4f7-4640-ae67-95cf8f8601b4" absoluteBounds="3.5, 11.875, 2, 1.7708968098958344">
+      <DataClassMoniker Name="/dbDataTruyenTranhDataContext/Catergory" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ca9af8ed-a838-4a87-9e75-76b138954fa5" absoluteBounds="3.515, 12.335, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="8eb3299e-f4b5-4c65-b60c-cf61080556c2" absoluteBounds="6.25, 14.125, 2, 1.9631982421875005">
+      <DataClassMoniker Name="/dbDataTruyenTranhDataContext/Chapter" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4be6cf90-6a24-4292-9bb9-83081139a054" absoluteBounds="6.265, 14.585, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="619992c9-486c-4efc-965c-a8c74f782425" absoluteBounds="3.5, 7.25, 2, 2.9247054036458318">
+      <DataClassMoniker Name="/dbDataTruyenTranhDataContext/Comic" />
+      <nestedChildShapes>
+        <elementListCompartment Id="494cc402-8623-4bb2-b7b4-727f036d6dde" absoluteBounds="3.515, 7.71, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0779d32a-1bfd-4427-990b-9733a90cc99e" absoluteBounds="6.25, 8, 2, 1.3862939453124987">
+      <DataClassMoniker Name="/dbDataTruyenTranhDataContext/ComicCatergory" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2076f5a3-ca7c-4649-bd3a-82e5f43f2f71" absoluteBounds="6.265, 8.46, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="8720b25f-31f7-4667-b29d-0c3474fc51ab" absoluteBounds="6.25, 5, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/dbDataTruyenTranhDataContext/ComicKeyword" />
+      <nestedChildShapes>
+        <elementListCompartment Id="70001a2a-254b-4891-b953-a73e0b58e749" absoluteBounds="6.265, 5.46, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7a0c4cc1-d1d9-4abc-af4d-3fceb7644543" absoluteBounds="6.25, 11, 2, 1.3862939453124987">
+      <DataClassMoniker Name="/dbDataTruyenTranhDataContext/ComicTran" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b6b5ea06-294e-45d5-ace9-fa4635c6ec3a" absoluteBounds="6.265, 11.46, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7f960fdd-e92b-4b27-a33a-172fc936aaa9" absoluteBounds="9, 14.5, 2, 1.3862939453124987">
+      <DataClassMoniker Name="/dbDataTruyenTranhDataContext/ImageChapter" />
+      <nestedChildShapes>
+        <elementListCompartment Id="96a3a90a-2193-4398-a672-2a2a32e63161" absoluteBounds="9.015, 14.96, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="9d624420-7a97-46cb-bcaa-b2cf6ce00443" absoluteBounds="0.75, 2.875, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/dbDataTruyenTranhDataContext/Keyword" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3e31b0f3-9b59-4f3a-8436-d8ad9ec14a83" absoluteBounds="0.765, 3.335, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="092ebd9c-ecaa-491b-97a8-89b471ff8657" absoluteBounds="6.25, 21.125, 2, 1.1939925130208309">
+      <DataClassMoniker Name="/dbDataTruyenTranhDataContext/Permission" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2d8d51e2-e048-48d3-8f1e-a6d2ef0c4daa" absoluteBounds="6.265, 21.585, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="579e799a-4837-4575-8359-9bc8ef3cf9a1" absoluteBounds="9, 18, 2, 1.3862939453125023">
+      <DataClassMoniker Name="/dbDataTruyenTranhDataContext/PermissionUser" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e3bec9ec-00ce-4e26-b9e8-48b0abced3d4" absoluteBounds="9.015, 18.46, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="2900ee56-eb81-4e01-8fd8-ec6cf7ad3703" absoluteBounds="9.25, 8.875, 2, 1.3862939453124987">
+      <DataClassMoniker Name="/dbDataTruyenTranhDataContext/TeamKeyword" />
+      <nestedChildShapes>
+        <elementListCompartment Id="99721c6c-ee68-4e05-8666-1951605c63b5" absoluteBounds="9.265, 9.335, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="983b24a1-d5f8-49fe-93e0-57594bca2b24" absoluteBounds="3.5, 18.125, 2, 1.1939925130208309">
+      <DataClassMoniker Name="/dbDataTruyenTranhDataContext/TransPermission" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5da6b81b-6ae1-4ce6-a06e-d600bd4c32d9" absoluteBounds="3.515, 18.585, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ac8a4a84-013a-4c67-874e-ae030ae8045a" absoluteBounds="3.5, 15, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/dbDataTruyenTranhDataContext/TransTeam" />
+      <nestedChildShapes>
+        <elementListCompartment Id="74465f0a-1234-46d6-97dd-0e1952412d81" absoluteBounds="3.515, 15.46, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 6.06814697265625); (3.5 : 6.06814697265625)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/dbDataTruyenTranhDataContext/Author/Author_AuthorKeyword" />
+      <nodes>
+        <classShapeMoniker Id="6aa8b222-4665-417f-8912-6caef187111d" />
+        <classShapeMoniker Id="d91af810-e051-497a-8eff-480e803ff4a1" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.46769230769231 : 10.1747054036458); (5.875 : 10.5820130959535); (5.875 : 15.1065991210938); (6.25 : 15.1065991210938)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/dbDataTruyenTranhDataContext/Comic/Comic_Chapter" />
+      <nodes>
+        <classShapeMoniker Id="619992c9-486c-4efc-965c-a8c74f782425" />
+        <classShapeMoniker Id="8eb3299e-f4b5-4c65-b60c-cf61080556c2" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(1.75 : 7.45359537760417); (1.75 : 8.814150890625); (3.5 : 8.814150890625)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/dbDataTruyenTranhDataContext/Author/Author_Comic" />
+      <nodes>
+        <classShapeMoniker Id="6aa8b222-4665-417f-8912-6caef187111d" />
+        <classShapeMoniker Id="619992c9-486c-4efc-965c-a8c74f782425" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 11.937661502504); (5.81607443490112 : 11.6215870676029 : JumpStart); (5.99642556509888 : 11.4412359374051 : JumpEnd); (6.0625 : 11.375161502504); (6.0625 : 8.69314697265625); (6.25 : 8.69314697265625)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/dbDataTruyenTranhDataContext/Catergory/Catergory_ComicCatergory" />
+      <nodes>
+        <classShapeMoniker Id="64b69874-d4f7-4640-ae67-95cf8f8601b4" />
+        <classShapeMoniker Id="0779d32a-1bfd-4427-990b-9733a90cc99e" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 8.28407348632813); (6.25 : 8.28407348632813)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/dbDataTruyenTranhDataContext/Comic/Comic_ComicCatergory" />
+      <nodes>
+        <classShapeMoniker Id="619992c9-486c-4efc-965c-a8c74f782425" />
+        <classShapeMoniker Id="0779d32a-1bfd-4427-990b-9733a90cc99e" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 7.25); (5.875 : 6.875); (5.875 : 5.69314697265625); (6.25 : 5.69314697265625)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/dbDataTruyenTranhDataContext/Comic/Comic_ComicKeyword" />
+      <nodes>
+        <classShapeMoniker Id="619992c9-486c-4efc-965c-a8c74f782425" />
+        <classShapeMoniker Id="8720b25f-31f7-4667-b29d-0c3474fc51ab" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 10.0793197882612); (5.9375 : 10.5168197882612); (5.9375 : 11.6931469726562); (6.25 : 11.6931469726562)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/dbDataTruyenTranhDataContext/Comic/Comic_ComicTran" />
+      <nodes>
+        <classShapeMoniker Id="619992c9-486c-4efc-965c-a8c74f782425" />
+        <classShapeMoniker Id="7a0c4cc1-d1d9-4abc-af4d-3fceb7644543" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 15.1931469726562); (9 : 15.1931469726562)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/dbDataTruyenTranhDataContext/Chapter/Chapter_ImageChapter" />
+      <nodes>
+        <classShapeMoniker Id="8eb3299e-f4b5-4c65-b60c-cf61080556c2" />
+        <classShapeMoniker Id="7f960fdd-e92b-4b27-a33a-172fc936aaa9" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 3.66429768880208); (4.5 : 3.66429768880208); (4.5 : 4.875)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/dbDataTruyenTranhDataContext/Keyword/Keyword_AuthorKeyword" />
+      <nodes>
+        <classShapeMoniker Id="9d624420-7a97-46cb-bcaa-b2cf6ce00443" />
+        <classShapeMoniker Id="d91af810-e051-497a-8eff-480e803ff4a1" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 4.09019903320312); (7.25 : 4.09019903320312); (7.25 : 5)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/dbDataTruyenTranhDataContext/Keyword/Keyword_ComicKeyword" />
+      <nodes>
+        <classShapeMoniker Id="9d624420-7a97-46cb-bcaa-b2cf6ce00443" />
+        <classShapeMoniker Id="8720b25f-31f7-4667-b29d-0c3474fc51ab" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 21.7219962565104); (10 : 21.7219962565104); (10 : 19.3862939453125)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/dbDataTruyenTranhDataContext/Permission/Permission_PermissionUser" />
+      <nodes>
+        <classShapeMoniker Id="092ebd9c-ecaa-491b-97a8-89b471ff8657" />
+        <classShapeMoniker Id="579e799a-4837-4575-8359-9bc8ef3cf9a1" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 18.6931469726563); (9 : 18.6931469726563)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/dbDataTruyenTranhDataContext/User/User_PermissionUser" />
+      <nodes>
+        <classShapeMoniker Id="8511a079-63ee-4d49-88f4-1bc0f9234b9d" />
+        <classShapeMoniker Id="579e799a-4837-4575-8359-9bc8ef3cf9a1" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 3.23839634440104); (10.25 : 3.23839634440104); (10.25 : 8.875)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/dbDataTruyenTranhDataContext/Keyword/Keyword_TeamKeyword" />
+      <nodes>
+        <classShapeMoniker Id="9d624420-7a97-46cb-bcaa-b2cf6ce00443" />
+        <classShapeMoniker Id="2900ee56-eb81-4e01-8fd8-ec6cf7ad3703" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 18.7219962565104); (6.25 : 18.7219962565104)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/dbDataTruyenTranhDataContext/TransPermission/TransPermission_User" />
+      <nodes>
+        <classShapeMoniker Id="983b24a1-d5f8-49fe-93e0-57594bca2b24" />
+        <classShapeMoniker Id="8511a079-63ee-4d49-88f4-1bc0f9234b9d" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 16.3862939453125); (5.875 : 16.7612939453125); (5.875 : 19.3786506816406); (6.25 : 19.3786506816406)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/dbDataTruyenTranhDataContext/TransTeam/TransTeam_User" />
+      <nodes>
+        <classShapeMoniker Id="ac8a4a84-013a-4c67-874e-ae030ae8045a" />
+        <classShapeMoniker Id="8511a079-63ee-4d49-88f4-1bc0f9234b9d" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 15.03092401878); (6.03125 : 14.49967401878); (6.03125 : 12.0709724589844); (6.25 : 12.0709724589844)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/dbDataTruyenTranhDataContext/TransTeam/TransTeam_ComicTran" />
+      <nodes>
+        <classShapeMoniker Id="ac8a4a84-013a-4c67-874e-ae030ae8045a" />
+        <classShapeMoniker Id="7a0c4cc1-d1d9-4abc-af4d-3fceb7644543" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 16.23724359375); (11.15625 : 16.23724359375); (11.15625 : 10.2612939453125)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/dbDataTruyenTranhDataContext/TransTeam/TransTeam_TeamKeyword" />
+      <nodes>
+        <classShapeMoniker Id="ac8a4a84-013a-4c67-874e-ae030ae8045a" />
+        <classShapeMoniker Id="2900ee56-eb81-4e01-8fd8-ec6cf7ad3703" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="144e410b-0343-4e95-8975-da17aebe8362" absoluteBounds="3.125, 1.125, 2, 1.3862939453125">
+      <DataClassMoniker Name="/dbDataTruyenTranhDataContext/Admin" />
+      <nestedChildShapes>
+        <elementListCompartment Id="94987a3a-c512-42a8-b59c-555440bd9b1c" absoluteBounds="3.14, 1.585, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
